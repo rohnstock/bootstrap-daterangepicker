@@ -11,6 +11,9 @@
         "url": "https://github.com/dangrossman/bootstrap-daterangepicker",
         "name": "dangrossman"
     },
+    "require": {
+        "moment/moment": "2.15.*"
+    },
     "extra": {
         "component": {
             "files": [
