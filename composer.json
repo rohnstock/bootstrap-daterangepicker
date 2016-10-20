@@ -1,0 +1,22 @@
+{
+    "name": "rohnstock/bootstrap-daterangepicker",
+    "description": "Date range picker component for Bootstrap http://www.daterangepicker.com",
+    "type": "component",
+    "homepage": "http://www.daterangepicker.com",
+    "license": "MIT",
+    "keywords": [
+        "datetimepicker"
+    ],
+    "author": {
+        "url": "https://github.com/dangrossman/bootstrap-daterangepicker",
+        "name": "dangrossman"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "daterangepicker.js",
+                "daterangepicker.css"
+            ]
+        }
+    }
+}
